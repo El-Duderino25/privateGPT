@@ -49,7 +49,7 @@ llm-mistral = [
     "huggingface_hub",
 ]
 llm-anthropic = [
-    "langchain-anthropic>=1.4.3",
+    "langchain-anthropic>=1.4.6",
     "anthropic>=0.107.1",
 ]
 
