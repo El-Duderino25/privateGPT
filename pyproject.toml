@@ -228,7 +228,7 @@ data-pandasai = [
 # ---------------------------------------------------------------------------
 tool-mcp = [
     "llama-index-tools-mcp",
-    "mcp>=1.27.0,<2",
+    "mcp>=1.28.1,<2",
 ]
 tool-tabular = [
     "private-gpt[data-pandasai]",
