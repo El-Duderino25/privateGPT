@@ -248,7 +248,7 @@ tools = [
 # ---------------------------------------------------------------------------
 # media-core: shared torch base for all media-* extras
 media-core = [
-    "torch>=2.11.0,<3",
+    "torch>=2.13.0,<3",
 ]
 media-image = [
     "private-gpt[media-core]",
